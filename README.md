@@ -94,3 +94,4 @@ The app uses browser localStorage with these keys:
 Built with ❤️ using Vite, React, Tailwind CSS, and Chart.js
 
 # Expense-tracker
+# expense-tracker
